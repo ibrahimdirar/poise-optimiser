@@ -1,0 +1,118 @@
+Helmet:
+  ChainCoif:
+    poise: 4
+    weight: 3.8
+
+  VagabondKnightHelmet:
+    poise: 4
+    weight: 4
+
+  ExileHelmet:
+    poise: 4
+    weight: 4
+
+  VulgarMilitiaHelmet:
+    poise: 2
+    weight: 3.6
+
+  TwinnedHelmet:
+    poise: 5
+    weight: 5.1
+
+  BeastHelmet:
+    poise: 9
+    weight: 7.5
+Armor:
+  ChainArmor:
+    poise: 12
+    weight: 8.8
+
+  NobleTravellingGarb:
+    poise: 2
+    weight: 6.3
+
+  VagabondKnightArmor:
+    poise: 15
+    weight: 10.6
+
+  ExileArmor:
+    poise: 14
+    weight: 9.2
+
+  VulgarMilitiaArmor:
+    poise: 6
+    weight: 7.7
+
+  TwinnedArmor:
+    poise: 21
+    weight: 13.7
+
+  BeastArmor:
+    poise: 28
+    weight: 17.5
+
+Gauntlet:
+  ChainGauntlet:
+    poise: 3
+    weight: 2.9
+
+  VulgarMilitiaGauntlet:
+    poise: 1
+    weight: 2.1
+
+  SoldierGauntlet:
+    poise: 4
+    weight: 3.5
+
+  ExileGauntlet:
+    poise: 3
+    weight: 2.9
+
+  VagobondGauntlet:
+    poise: 3
+    weight: 3.5
+
+  TwinnedGauntlet:
+    poise: 4
+    weight: 3.9
+
+  BeastGauntlet:
+    poise: 6
+    weight: 5.8
+
+Greaves:
+  ChainLeggints:
+    poise: 7
+    weight: 5.5
+
+  ClothTrousers:
+    poise: 1
+    weight: 2.0
+
+  NobleTrousers:
+    poise: 1
+    weight: 3.9
+
+  SoldierGreaves:
+    poise: 10
+    weight: 6.6
+
+  ExileGreaves:
+    poise: 8
+    weight: 5.7
+
+  KaidenGreaves:
+    poise: 7
+    weight: 5.1
+
+  VagobondGreaves:
+    poise: 8
+    weight: 5.7
+
+  TwinnedGreaves:
+    poise: 10
+    weight: 7.3
+
+  BeastGreaves:
+    poise: 17
+    weight: 10.8
