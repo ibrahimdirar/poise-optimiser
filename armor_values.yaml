@@ -8,6 +8,9 @@ head:
   - name: "Exile Hood"
     poise: 4
     weight: 4
+  - name: "Raya Lucarian Helm"
+    poise: 5
+    weight: 4.0
   - name: "Vulgar Militia Helm"
     poise: 2
     weight: 3.6
