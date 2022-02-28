@@ -39,6 +39,9 @@ chest:
   - name: "Vagabond Knight Armor"
     poise: 15
     weight: 10.6
+  - name: "Vagabond Knight Armor (Altered)"
+    poise: 12
+    weight: 9.6
   - name: "Exile Armor"
     poise: 14
     weight: 9.2
@@ -48,9 +51,15 @@ chest:
   - name: "Twinned Armor"
     poise: 21
     weight: 13.7
+  - name: "Twinned Armor (Altered)"
+    poise: 17
+    weight: 12.8
   - name: "Beast Champion Armor"
     poise: 28
     weight: 17.5
+  - name: "Beast Champion Armor (Altered)"
+    poise: 25
+    weight: 16.4
   - name: "Knight Armor"
     poise: 19
     weight: 10.6
