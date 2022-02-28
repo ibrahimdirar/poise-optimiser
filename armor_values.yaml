@@ -1,118 +1,123 @@
-Helmet:
-  ChainCoif:
+head:
+  - name: ChainCoif
     poise: 4
     weight: 3.8
-
-  VagabondKnightHelmet:
+  - name: "Vagabond Knight Helm"
+    poise: 4
+    weight: 4.0
+  - name: "Exile Hood"
     poise: 4
     weight: 4
-
-  ExileHelmet:
-    poise: 4
-    weight: 4
-
-  VulgarMilitiaHelmet:
+  - name: "Vulgar Militia Helm"
     poise: 2
     weight: 3.6
-
-  TwinnedHelmet:
+  - name: "Twinned Helm"
     poise: 5
     weight: 5.1
-
-  BeastHelmet:
+  - name: "Beast Champion Helm"
     poise: 9
     weight: 7.5
-Armor:
-  ChainArmor:
+  - name: "Knight Helm"
+    poise: 6
+    weight: 4.6
+chest:
+  - name: "Cloth Garb"
+    poise: 1
+    weight: 3.2
+  - name: "Aristocrat Garb"
+    poise: 2
+    weight: 4.9
+  - name: "Raya Lucarian Robe"
+    poise: 1
+    weight: 4.1
+  - name: ChainArmor
     poise: 12
     weight: 8.8
-
-  NobleTravellingGarb:
+  - name: "Noble's Traveling Gear"
     poise: 2
     weight: 6.3
-
-  VagabondKnightArmor:
+  - name: "Vagabond Knight Armor"
     poise: 15
     weight: 10.6
-
-  ExileArmor:
+  - name: "Exile Armor"
     poise: 14
     weight: 9.2
-
-  VulgarMilitiaArmor:
+  - name: "Vulgar Militia Armor"
     poise: 6
     weight: 7.7
-
-  TwinnedArmor:
+  - name: "Twinned Armor"
     poise: 21
     weight: 13.7
-
-  BeastArmor:
+  - name: "Beast Champion Armor"
     poise: 28
     weight: 17.5
+  - name: "Knight Armor"
+    poise: 19
+    weight: 10.6
 
-Gauntlet:
-  ChainGauntlet:
-    poise: 3
-    weight: 2.9
-
-  VulgarMilitiaGauntlet:
+arms:
+  - name: "Noble's Gloves"
     poise: 1
     weight: 2.1
-
-  SoldierGauntlet:
-    poise: 4
-    weight: 3.5
-
-  ExileGauntlet:
+  - name: "Chain Gauntlets"
     poise: 3
     weight: 2.9
-
-  VagobondGauntlet:
+  - name: "Vulgar Militia Gauntletss"
+    poise: 1
+    weight: 2.1
+  - name: "Godrick Soldier Gauntlets"
+    poise: 4
+    weight: 3.5
+  - name: "Raya Lucarian Gauntlets"
+    poise: 4
+    weight: 3.5
+  - name: "Exile Gauntlets"
+    poise: 3
+    weight: 2.9
+  - name: "Kaiden Gauntlets"
+    poise: 3
+    weight: 2.9
+  - name: "Vagobond Gauntlets"
     poise: 3
     weight: 3.5
-
-  TwinnedGauntlet:
+  - name: "Twinned Gauntlets"
     poise: 4
     weight: 3.9
-
-  BeastGauntlet:
+  - name: "Beast Champion Gauntlets"
     poise: 6
     weight: 5.8
+  - name: "Knight Gauntlets"
+    poise: 4
+    weight: 3.5
 
-Greaves:
-  ChainLeggints:
+legs:
+  - name: "Chain Leggings"
     poise: 7
     weight: 5.5
-
-  ClothTrousers:
+  - name: "Cloth Trousers"
     poise: 1
     weight: 2.0
-
-  NobleTrousers:
+  - name: "Noble's Trousers"
     poise: 1
     weight: 3.9
-
-  SoldierGreaves:
+  - name: "Raya Lucarian Greaves"
     poise: 10
     weight: 6.6
-
-  ExileGreaves:
+  - name: "Exile Greaves"
     poise: 8
     weight: 5.7
-
-  KaidenGreaves:
+  - name: "Kaiden Trousers"
     poise: 7
     weight: 5.1
-
-  VagobondGreaves:
+  - name: "Vagobond Knight Greaves"
     poise: 8
     weight: 5.7
-
-  TwinnedGreaves:
+  - name: "Twinned Greaves"
     poise: 10
     weight: 7.3
-
-  BeastGreaves:
+  - name: "Beast Champion Greaves"
     poise: 17
     weight: 10.8
+  - name: "Knight Greaves"
+    poise: 11
+    weight: 6.6
