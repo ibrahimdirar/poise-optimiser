@@ -1,135 +1,196 @@
 head:
-  - name: ChainCoif
+  - name: Radiant Gold Mask
+    poise: 1
+    weight: 2.2
+  - name: Chain Coif
     poise: 4
     weight: 3.8
-  - name: "Vagabond Knight Helm"
+  - name: Vagabond Knight Helm
     poise: 4
     weight: 4.0
-  - name: "Exile Hood"
+  - name: Exile Hood
     poise: 4
     weight: 4
-  - name: "Raya Lucarian Helm"
+  - name: Raya Lucarian Helm
     poise: 5
     weight: 4.0
-  - name: "Vulgar Militia Helm"
+  - name: Vulgar Militia Helm
     poise: 2
     weight: 3.6
-  - name: "Twinned Helm"
+  - name: Twinned Helm
     poise: 5
     weight: 5.1
-  - name: "Beast Champion Helm"
+  - name: Beast Champion Helm
     poise: 9
     weight: 7.5
-  - name: "Knight Helm"
+  - name: Knight Helm
     poise: 6
     weight: 4.6
+  - name: Confessor Hood
+    poise: 2
+    weight: 3.3
+  - name: Scaled Helm
+    poise: 9
+    weight: 6.8
+  - name: Bull-Goat Helm
+    poise: 15
+    weight: 11.3
+  - name: Radahn's Redmane Helm
+    poise: 9
+    weight: 5.1
+
 chest:
-  - name: "Cloth Garb"
+  - name: Cloth Garb
     poise: 1
     weight: 3.2
-  - name: "Aristocrat Garb"
+  - name: Aristocrat Garb
     poise: 2
     weight: 4.9
-  - name: "Raya Lucarian Robe"
+  - name: Raya Lucarian Robe
     poise: 1
     weight: 4.1
   - name: ChainArmor
     poise: 12
     weight: 8.8
-  - name: "Noble's Traveling Gear"
+  - name: Noble's Traveling Gear
     poise: 2
     weight: 6.3
-  - name: "Vagabond Knight Armor"
+  - name: Vagabond Knight Armor
     poise: 15
     weight: 10.6
-  - name: "Vagabond Knight Armor (Altered)"
+  - name: Vagabond Knight Armor (Altered)
     poise: 12
     weight: 9.6
-  - name: "Exile Armor"
+  - name: Exile Armor
     poise: 14
     weight: 9.2
-  - name: "Vulgar Militia Armor"
+  - name: Vulgar Militia Armor
     poise: 6
     weight: 7.7
-  - name: "Twinned Armor"
+  - name: Twinned Armor
     poise: 21
     weight: 13.7
-  - name: "Twinned Armor (Altered)"
+  - name: Twinned Armor (Altered)
     poise: 17
     weight: 12.8
-  - name: "Beast Champion Armor"
+  - name: Beast Champion Armor
     poise: 28
     weight: 17.5
-  - name: "Beast Champion Armor (Altered)"
+  - name: Beast Champion Armor (Altered)
     poise: 25
     weight: 16.4
-  - name: "Knight Armor"
+  - name: Knight Armor
     poise: 19
     weight: 10.6
+  - name: Confessor Armor
+    poise: 6
+    weight: 8.3
+  - name: Scaled Armor
+    poise: 27
+    weight: 16.0
+  - name: Scaled Armor (Altered)
+    poise: 22
+    weight: 15.0
+  - name: Bull-Goat Armor
+    poise: 47
+    weight: 26.5
+  - name: Radahn's Lion Armor
+    poise: 28
+    weight: 17.5
 
 arms:
-  - name: "Noble's Gloves"
+  - name: Noble's Gloves
     poise: 1
     weight: 2.1
-  - name: "Chain Gauntlets"
+  - name: Chain Gauntlets
     poise: 3
     weight: 2.9
-  - name: "Vulgar Militia Gauntletss"
+  - name: Vulgar Militia Gauntletss
     poise: 1
     weight: 2.1
-  - name: "Godrick Soldier Gauntlets"
+  - name: Godrick Soldier Gauntlets
     poise: 4
     weight: 3.5
-  - name: "Raya Lucarian Gauntlets"
+  - name: Raya Lucarian Gauntlets
     poise: 4
     weight: 3.5
-  - name: "Exile Gauntlets"
+  - name: Exile Gauntlets
     poise: 3
     weight: 2.9
-  - name: "Kaiden Gauntlets"
+  - name: Kaiden Gauntlets
     poise: 3
     weight: 2.9
-  - name: "Vagobond Gauntlets"
+  - name: Vagobond Gauntlets
     poise: 3
     weight: 3.5
-  - name: "Twinned Gauntlets"
+  - name: Twinned Gauntlets
     poise: 4
     weight: 3.9
-  - name: "Beast Champion Gauntlets"
+  - name: Beast Champion Gauntlets
     poise: 6
     weight: 5.8
-  - name: "Knight Gauntlets"
+  - name: Knight Gauntlets
     poise: 4
     weight: 3.5
+  - name: Confessor Gloves
+    poise: 1
+    weight: 2.8
+  - name: Scaled Gauntlets
+    poise: 6
+    weight: 5.3
+  - name: Bull-Goat Gauntlets
+    poise: 10
+    weight: 8.8
+  - name: Radahn's Gauntlets
+    poise: 6
+    weight: 5.8
 
 legs:
-  - name: "Chain Leggings"
+  - name: Chain Leggings
     poise: 7
     weight: 5.5
-  - name: "Cloth Trousers"
+  - name: Cloth Trousers
     poise: 1
     weight: 2.0
-  - name: "Noble's Trousers"
+  - name: Noble's Trousers
     poise: 1
     weight: 3.9
-  - name: "Raya Lucarian Greaves"
+  - name: Raya Lucarian Greaves
     poise: 10
     weight: 6.6
-  - name: "Exile Greaves"
+  - name: Exile Greaves
     poise: 8
     weight: 5.7
-  - name: "Kaiden Trousers"
+  - name: Kaiden Trousers
     poise: 7
     weight: 5.1
-  - name: "Vagobond Knight Greaves"
+  - name: Vagobond Knight Greaves
     poise: 8
     weight: 5.7
-  - name: "Twinned Greaves"
+  - name: Twinned Greaves
     poise: 10
     weight: 7.3
-  - name: "Beast Champion Greaves"
+  - name: Beast Champion Greaves
     poise: 17
     weight: 10.8
-  - name: "Knight Greaves"
+  - name: Knight Greaves
     poise: 11
     weight: 6.6
+  - name: Leyndell Knight Greaves
+    poise: 11
+    weight: 7.3
+  - name: Confessor Boots
+    poise: 3
+    weight: 4.8
+  - name: Scaled Greaves
+    poise: 16
+    weight: 9.9
+  - name: Bull-Goat Greaves
+    poise: 28
+    weight: 16.4
+  - name: Vulgar Militia Greaves
+    poise: 4
+    weight: 5.1
+  - name: Radahn's Greaves
+    poise: 17
+    weight: 10.8
